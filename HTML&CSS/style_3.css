@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  background-image: url("https://images.pexels.com/photos/842711/pexels-photo-842711.jpeg?cs=srgb&dl=pexels-christian-heitz-842711.jpg&fm=jpg");
+  background-size: 100%;
+}
+h1 {
+  text-align: center;
+  color: black;
+}
+#MyVideo {
+  position: fixed;
+  width: auto;
+  height: auto;
+}
+div {
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  border: 1px solid white;
+  border-radius: 4px;
+  padding-left: 40px;
+  min-width: 350px;
+}
+input {
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: whitesmoke;
+  font-size: 20px;
+  border: none;
+  outline: none;
+}
+input:focus {
+  outline: none;
+  color: bisque;
+  background-color: rgb(70, 130, 180, 0.35);
+}
+button {
+  color: white;
+  border-radius: 4px;
+  background-color: blue;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  margin: 10px;
+}
