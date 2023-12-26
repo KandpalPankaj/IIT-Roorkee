@@ -1,4 +1,4 @@
-# chanchal-ReactJS-Lab4
+# Pankaj-ReactJS-Lab4
 # This is react-based-application for expense-tracker created from 'create-react-app'.
 There are many components in it -> 
 ### Learning Objectives - ShowList Component -->
